@@ -4,8 +4,6 @@
 Description
 Here I have Implemented Simple Form Which Takes Input and Save it into JSONPower Database Using JavaScript, netBeans and ajax.
 
-
-
 **Benefits of using JsonPowerDB**
 Minimum Development Cost
 Minimum Time to Market
@@ -27,11 +25,10 @@ Inbuilt support to Querying Multiple Databases
 Multiple security layers
 Server Side Native NoSQL - best performance
 
-Release History (release of your JsonPowerDB related code on Github)
+**Release History (release of your JsonPowerDB related code on Github)**
 25/12/2022
 
-
-Additional information:
+**Additional information:**
 Create an employee form as per the video link given at the end to store data in following columns of the relation "EmpData" in "EMP-DB" database.
 
  {id, name, salary, hra, da, deduction}
